@@ -1,0 +1,10 @@
+Disk Space Incident Simulator
+Real world situation
+
+Server crashes because disk becomes full.
+
+Create a script that
+
+==> Detects disk usage > 90%
+--> Finds largest directories
+--> Suggests cleanup
